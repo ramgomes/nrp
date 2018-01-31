@@ -1,0 +1,1 @@
+--sce "/home/rafael/inrc2/data/n030w2/Sc-n030w2.xml" --his "/home/rafael/inrc2/data/n030w2/H0-n030w2-0.xml" --week "/home/rafael/inrc2/data/n030w2/WD-n030w2-0.xml" "/home/rafael/inrc2/data/n030w2/WD-n030w2-1.xml" --sol "/home/rafael/inrc2/out/n030w2_0_0-1/sol-week0.xml" --timeout 600
