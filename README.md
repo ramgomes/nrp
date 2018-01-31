@@ -1,2 +1,2 @@
-# nrp
+# NRP Solver
 NRP Solver
