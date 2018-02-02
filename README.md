@@ -1,7 +1,7 @@
 # NRP Solver
 NRP Solver
 
-## Traveling Umpire Problem Solver
+## Nurse Rostering Problem Solver
 
 Written by Rafael Gomes, Túlio Toffolo and Haroldo Santos.
 

@@ -1,0 +1,617 @@
+Creating directory: out/n110w4_2_5-1-3-0
+
+-----------------------------------------------------------
+Instance	n110w4_2_5-1-3-0
+algorithm	=	vns
+maxIter	=	10
+eliteSet	=	10
+shakePerc	=	0.9
+bestKnow	=	2925.0
+minColsIter	=	0.35
+minRoundDown	=	-1.0
+minRoundUp	=	0.67
+seed	=	0
+onlyRelax	=	false
+nThreads	=	20
+alpha	=	0.6
+timeOut	=	14600
+-----------------------------------------------------------
+Parallels mode has been selected.
+i = 0	Master Time = 0	Lamb = 0	Total time = 5	Obj = 535850.00	Pricing Time = 0
+i = 1	Master Time = 2	Lamb = 710	Total time = 7	Obj = 164215.00	Pricing Time = 0
+i = 2	Master Time = 1	Lamb = 1299	Total time = 8	Obj = 82878.06	Pricing Time = 0
+i = 3	Master Time = 1	Lamb = 1937	Total time = 10	Obj = 63155.13	Pricing Time = 0
+i = 4	Master Time = 1	Lamb = 2587	Total time = 11	Obj = 33416.45	Pricing Time = 0
+i = 5	Master Time = 2	Lamb = 3219	Total time = 13	Obj = 22975.14	Pricing Time = 0
+i = 6	Master Time = 2	Lamb = 3878	Total time = 15	Obj = 16948.89	Pricing Time = 0
+i = 7	Master Time = 2	Lamb = 4516	Total time = 17	Obj = 12646.59	Pricing Time = 0
+i = 8	Master Time = 2	Lamb = 5152	Total time = 19	Obj = 10247.36	Pricing Time = 1
+i = 9	Master Time = 3	Lamb = 5784	Total time = 23	Obj = 8164.96	Pricing Time = 0
+i = 10	Master Time = 2	Lamb = 6351	Total time = 25	Obj = 6776.21	Pricing Time = 1
+i = 11	Master Time = 2	Lamb = 6884	Total time = 27	Obj = 5832.59	Pricing Time = 0
+i = 12	Master Time = 2	Lamb = 7385	Total time = 30	Obj = 5063.14	Pricing Time = 0
+i = 13	Master Time = 3	Lamb = 7913	Total time = 33	Obj = 4610.85	Pricing Time = 0
+i = 14	Master Time = 2	Lamb = 8352	Total time = 35	Obj = 4182.08	Pricing Time = 1
+i = 15	Master Time = 2	Lamb = 8803	Total time = 38	Obj = 3938.91	Pricing Time = 1
+i = 16	Master Time = 3	Lamb = 9146	Total time = 42	Obj = 3713.15	Pricing Time = 0
+i = 17	Master Time = 3	Lamb = 9487	Total time = 45	Obj = 3506.45	Pricing Time = 0
+i = 18	Master Time = 3	Lamb = 9830	Total time = 48	Obj = 3354.00	Pricing Time = 0
+i = 19	Master Time = 2	Lamb = 10134	Total time = 51	Obj = 3220.62	Pricing Time = 0
+i = 20	Master Time = 3	Lamb = 10405	Total time = 54	Obj = 3139.99	Pricing Time = 0
+i = 21	Master Time = 2	Lamb = 10636	Total time = 56	Obj = 3056.21	Pricing Time = 1
+i = 22	Master Time = 3	Lamb = 10864	Total time = 60	Obj = 2955.45	Pricing Time = 0
+i = 23	Master Time = 3	Lamb = 11096	Total time = 63	Obj = 2889.72	Pricing Time = 0
+i = 24	Master Time = 3	Lamb = 11295	Total time = 66	Obj = 2867.07	Pricing Time = 0
+i = 25	Master Time = 3	Lamb = 11483	Total time = 69	Obj = 2833.50	Pricing Time = 1
+i = 26	Master Time = 2	Lamb = 11644	Total time = 72	Obj = 2812.79	Pricing Time = 1
+i = 27	Master Time = 1	Lamb = 11815	Total time = 74	Obj = 2793.99	Pricing Time = 1
+i = 28	Master Time = 2	Lamb = 11962	Total time = 77	Obj = 2774.59	Pricing Time = 2
+i = 29	Master Time = 2	Lamb = 12123	Total time = 81	Obj = 2759.21	Pricing Time = 0
+i = 30	Master Time = 2	Lamb = 12268	Total time = 83	Obj = 2747.82	Pricing Time = 1
+i = 31	Master Time = 3	Lamb = 12381	Total time = 87	Obj = 2737.30	Pricing Time = 0
+i = 32	Master Time = 2	Lamb = 12519	Total time = 89	Obj = 2731.57	Pricing Time = 1
+i = 33	Master Time = 2	Lamb = 12630	Total time = 92	Obj = 2726.89	Pricing Time = 15
+i = 34	Master Time = 3	Lamb = 12835	Total time = 110	Obj = 2700.39	Pricing Time = 1
+i = 35	Master Time = 2	Lamb = 12991	Total time = 113	Obj = 2694.86	Pricing Time = 0
+i = 36	Master Time = 2	Lamb = 13104	Total time = 115	Obj = 2692.12	Pricing Time = 1
+i = 37	Master Time = 2	Lamb = 13200	Total time = 118	Obj = 2688.60	Pricing Time = 0
+i = 38	Master Time = 2	Lamb = 13291	Total time = 120	Obj = 2687.00	Pricing Time = 1
+i = 39	Master Time = 1	Lamb = 13373	Total time = 122	Obj = 2685.75	Pricing Time = 1
+i = 40	Master Time = 1	Lamb = 13435	Total time = 124	Obj = 2684.63	Pricing Time = 14
+i = 41	Master Time = 3	Lamb = 13621	Total time = 141	Obj = 2661.84	Pricing Time = 0
+i = 42	Master Time = 4	Lamb = 13809	Total time = 144	Obj = 2659.14	Pricing Time = 0
+i = 43	Master Time = 2	Lamb = 13933	Total time = 147	Obj = 2658.51	Pricing Time = 1
+i = 44	Master Time = 2	Lamb = 14030	Total time = 150	Obj = 2657.82	Pricing Time = 1
+i = 45	Master Time = 2	Lamb = 14108	Total time = 153	Obj = 2657.71	Pricing Time = 13
+i = 46	Master Time = 3	Lamb = 14297	Total time = 169	Obj = 2645.95	Pricing Time = 10
+i = 47	Master Time = 1	Lamb = 14408	Total time = 180	Obj = 2640.23	Pricing Time = 7
+i = 48	Master Time = 0	Lamb = 14463	Total time = 187	Obj = 2638.36	Pricing Time = 9
+i = 49	Master Time = 0	Lamb = 14521	Total time = 196	Obj = 2637.57	Pricing Time = 10
+i = 50	Master Time = 1	Lamb = 14575	Total time = 207	Obj = 2637.50	Pricing Time = 8
+
+Optimal of relaxation found.
+Fractional X Variables: 4840 (min: 6.097997414477585E-4 max: 0.9958841984255966)
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 451
+X fix to 0: 0
+Fractional X remaining: 4840 | min(6.097997414477585E-4, 0.9958841984255966)
+--------------------------------------
+i = 51	Master Time = 3	Lamb = 14575	Total time = 219	Obj = 2715.22	Pricing Time = 1
+i = 52	Master Time = 3	Lamb = 14956	Total time = 223	Obj = 2692.33	Pricing Time = 0
+i = 53	Master Time = 4	Lamb = 15228	Total time = 227	Obj = 2678.37	Pricing Time = 0
+i = 54	Master Time = 3	Lamb = 15519	Total time = 230	Obj = 2672.17	Pricing Time = 1
+i = 55	Master Time = 2	Lamb = 15721	Total time = 233	Obj = 2669.16	Pricing Time = 0
+i = 56	Master Time = 1	Lamb = 15881	Total time = 234	Obj = 2665.42	Pricing Time = 4
+i = 57	Master Time = 3	Lamb = 15990	Total time = 242	Obj = 2656.37	Pricing Time = 0
+i = 58	Master Time = 2	Lamb = 16099	Total time = 244	Obj = 2654.73	Pricing Time = 1
+i = 59	Master Time = 3	Lamb = 16201	Total time = 248	Obj = 2652.96	Pricing Time = 4
+i = 60	Master Time = 1	Lamb = 16235	Total time = 253	Obj = 2647.61	Pricing Time = 5
+i = 61	Master Time = 1	Lamb = 16293	Total time = 259	Obj = 2645.66	Pricing Time = 7
+i = 62	Master Time = 0	Lamb = 16324	Total time = 266	Obj = 2641.42	Pricing Time = 6
+i = 63	Master Time = 1	Lamb = 16361	Total time = 273	Obj = 2640.07	Pricing Time = 6
+i = 64	Master Time = 0	Lamb = 16397	Total time = 279	Obj = 2640.00	Pricing Time = 5
+i = 65	Master Time = 1	Lamb = 16405	Total time = 285	Obj = 2640.00	Pricing Time = 5
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 698
+X fix to 0: 0
+Fractional X remaining: 3496 | min(2.1840217631138859E-4, 0.9892540508492954)
+--------------------------------------
+i = 66	Master Time = 3	Lamb = 16405	Total time = 293	Obj = 2846.25	Pricing Time = 0
+i = 67	Master Time = 3	Lamb = 16878	Total time = 296	Obj = 2784.52	Pricing Time = 1
+i = 68	Master Time = 2	Lamb = 17182	Total time = 299	Obj = 2750.64	Pricing Time = 0
+i = 69	Master Time = 3	Lamb = 17412	Total time = 302	Obj = 2723.05	Pricing Time = 1
+i = 70	Master Time = 2	Lamb = 17569	Total time = 305	Obj = 2708.55	Pricing Time = 1
+i = 71	Master Time = 2	Lamb = 17688	Total time = 308	Obj = 2682.47	Pricing Time = 0
+i = 72	Master Time = 2	Lamb = 17799	Total time = 310	Obj = 2678.34	Pricing Time = 1
+i = 73	Master Time = 2	Lamb = 17886	Total time = 313	Obj = 2676.24	Pricing Time = 0
+i = 74	Master Time = 3	Lamb = 17958	Total time = 316	Obj = 2672.60	Pricing Time = 4
+i = 75	Master Time = 3	Lamb = 18069	Total time = 323	Obj = 2663.95	Pricing Time = 4
+i = 76	Master Time = 4	Lamb = 18123	Total time = 331	Obj = 2656.73	Pricing Time = 0
+i = 77	Master Time = 1	Lamb = 18224	Total time = 332	Obj = 2656.33	Pricing Time = 3
+i = 78	Master Time = 1	Lamb = 18262	Total time = 336	Obj = 2652.09	Pricing Time = 3
+i = 79	Master Time = 1	Lamb = 18286	Total time = 340	Obj = 2648.25	Pricing Time = 4
+i = 80	Master Time = 0	Lamb = 18304	Total time = 344	Obj = 2641.76	Pricing Time = 4
+i = 81	Master Time = 1	Lamb = 18328	Total time = 349	Obj = 2640.27	Pricing Time = 5
+i = 82	Master Time = 0	Lamb = 18346	Total time = 354	Obj = 2640.00	Pricing Time = 4
+i = 83	Master Time = 0	Lamb = 18358	Total time = 358	Obj = 2640.00	Pricing Time = 5
+i = 84	Master Time = 0	Lamb = 18363	Total time = 363	Obj = 2640.00	Pricing Time = 4
+i = 85	Master Time = 0	Lamb = 18366	Total time = 367	Obj = 2640.00	Pricing Time = 4
+i = 86	Master Time = 0	Lamb = 18371	Total time = 371	Obj = 2640.00	Pricing Time = 4
+i = 87	Master Time = 0	Lamb = 18372	Total time = 375	Obj = 2640.00	Pricing Time = 4
+i = 88	Master Time = 1	Lamb = 18373	Total time = 380	Obj = 2640.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 864
+X fix to 0: 0
+Fractional X remaining: 2703 | min(1.0760162524940317E-4, 0.9912091930425105)
+--------------------------------------
+i = 89	Master Time = 3	Lamb = 18373	Total time = 386	Obj = 3300.86	Pricing Time = 0
+i = 90	Master Time = 3	Lamb = 18803	Total time = 389	Obj = 3040.74	Pricing Time = 0
+i = 91	Master Time = 4	Lamb = 19161	Total time = 392	Obj = 2961.44	Pricing Time = 0
+i = 92	Master Time = 3	Lamb = 19489	Total time = 396	Obj = 2828.13	Pricing Time = 0
+i = 93	Master Time = 3	Lamb = 19738	Total time = 399	Obj = 2717.13	Pricing Time = 1
+i = 94	Master Time = 3	Lamb = 19972	Total time = 402	Obj = 2680.54	Pricing Time = 0
+i = 95	Master Time = 2	Lamb = 20253	Total time = 405	Obj = 2676.09	Pricing Time = 1
+i = 96	Master Time = 1	Lamb = 20439	Total time = 407	Obj = 2670.41	Pricing Time = 1
+i = 97	Master Time = 2	Lamb = 20536	Total time = 410	Obj = 2667.18	Pricing Time = 0
+i = 98	Master Time = 2	Lamb = 20621	Total time = 412	Obj = 2662.61	Pricing Time = 1
+i = 99	Master Time = 1	Lamb = 20693	Total time = 414	Obj = 2660.72	Pricing Time = 2
+i = 100	Master Time = 4	Lamb = 20782	Total time = 420	Obj = 2650.41	Pricing Time = 0
+i = 101	Master Time = 4	Lamb = 20956	Total time = 424	Obj = 2650.32	Pricing Time = 1
+i = 102	Master Time = 2	Lamb = 21100	Total time = 427	Obj = 2645.16	Pricing Time = 1
+i = 103	Master Time = 0	Lamb = 21182	Total time = 428	Obj = 2645.00	Pricing Time = 4
+i = 104	Master Time = 0	Lamb = 21215	Total time = 432	Obj = 2645.00	Pricing Time = 4
+i = 105	Master Time = 1	Lamb = 21225	Total time = 437	Obj = 2642.73	Pricing Time = 4
+i = 106	Master Time = 0	Lamb = 21232	Total time = 441	Obj = 2640.00	Pricing Time = 4
+i = 107	Master Time = 0	Lamb = 21234	Total time = 445	Obj = 2640.00	Pricing Time = 3
+i = 108	Master Time = 0	Lamb = 21235	Total time = 449	Obj = 2640.00	Pricing Time = 3
+i = 109	Master Time = 1	Lamb = 21236	Total time = 453	Obj = 2640.00	Pricing Time = 3
+i = 110	Master Time = 1	Lamb = 21237	Total time = 457	Obj = 2640.00	Pricing Time = 3
+i = 111	Master Time = 1	Lamb = 21239	Total time = 461	Obj = 2640.00	Pricing Time = 3
+i = 112	Master Time = 1	Lamb = 21241	Total time = 465	Obj = 2640.00	Pricing Time = 4
+i = 113	Master Time = 0	Lamb = 21244	Total time = 469	Obj = 2640.00	Pricing Time = 4
+i = 114	Master Time = 0	Lamb = 21247	Total time = 473	Obj = 2640.00	Pricing Time = 4
+i = 115	Master Time = 0	Lamb = 21254	Total time = 477	Obj = 2640.00	Pricing Time = 4
+i = 116	Master Time = 0	Lamb = 21259	Total time = 481	Obj = 2640.00	Pricing Time = 4
+i = 117	Master Time = 0	Lamb = 21261	Total time = 485	Obj = 2640.00	Pricing Time = 4
+i = 118	Master Time = 0	Lamb = 21265	Total time = 489	Obj = 2640.00	Pricing Time = 4
+i = 119	Master Time = 0	Lamb = 21267	Total time = 493	Obj = 2640.00	Pricing Time = 4
+i = 120	Master Time = 0	Lamb = 21268	Total time = 497	Obj = 2640.00	Pricing Time = 4
+i = 121	Master Time = 0	Lamb = 21269	Total time = 501	Obj = 2640.00	Pricing Time = 4
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 978
+X fix to 0: 0
+Fractional X remaining: 2141 | min(5.007118085456064E-4, 0.9763315163478563)
+--------------------------------------
+i = 122	Master Time = 3	Lamb = 21269	Total time = 508	Obj = 2799.02	Pricing Time = 0
+i = 123	Master Time = 3	Lamb = 21484	Total time = 511	Obj = 2767.80	Pricing Time = 0
+i = 124	Master Time = 2	Lamb = 21631	Total time = 513	Obj = 2743.19	Pricing Time = 0
+i = 125	Master Time = 2	Lamb = 21743	Total time = 515	Obj = 2730.58	Pricing Time = 0
+i = 126	Master Time = 1	Lamb = 21816	Total time = 516	Obj = 2722.72	Pricing Time = 1
+i = 127	Master Time = 1	Lamb = 21883	Total time = 518	Obj = 2719.40	Pricing Time = 3
+i = 128	Master Time = 3	Lamb = 21957	Total time = 524	Obj = 2713.20	Pricing Time = 2
+i = 129	Master Time = 2	Lamb = 22020	Total time = 528	Obj = 2704.99	Pricing Time = 2
+i = 130	Master Time = 2	Lamb = 22093	Total time = 532	Obj = 2693.07	Pricing Time = 2
+i = 131	Master Time = 2	Lamb = 22145	Total time = 536	Obj = 2681.54	Pricing Time = 2
+i = 132	Master Time = 2	Lamb = 22193	Total time = 540	Obj = 2680.30	Pricing Time = 3
+i = 133	Master Time = 2	Lamb = 22250	Total time = 545	Obj = 2680.12	Pricing Time = 2
+i = 134	Master Time = 1	Lamb = 22304	Total time = 548	Obj = 2680.00	Pricing Time = 3
+i = 135	Master Time = 0	Lamb = 22308	Total time = 551	Obj = 2680.00	Pricing Time = 4
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1030
+X fix to 0: 0
+Fractional X remaining: 1782 | min(3.698868411822348E-4, 0.979550247526211)
+--------------------------------------
+i = 136	Master Time = 3	Lamb = 22308	Total time = 558	Obj = 2768.83	Pricing Time = 0
+i = 137	Master Time = 3	Lamb = 22655	Total time = 561	Obj = 2752.29	Pricing Time = 0
+i = 138	Master Time = 3	Lamb = 22884	Total time = 564	Obj = 2733.71	Pricing Time = 0
+i = 139	Master Time = 2	Lamb = 23035	Total time = 566	Obj = 2717.74	Pricing Time = 1
+i = 140	Master Time = 2	Lamb = 23139	Total time = 569	Obj = 2704.41	Pricing Time = 2
+i = 141	Master Time = 3	Lamb = 23233	Total time = 574	Obj = 2688.85	Pricing Time = 3
+i = 142	Master Time = 1	Lamb = 23312	Total time = 578	Obj = 2685.57	Pricing Time = 3
+i = 143	Master Time = 2	Lamb = 23367	Total time = 583	Obj = 2683.77	Pricing Time = 3
+i = 144	Master Time = 2	Lamb = 23420	Total time = 588	Obj = 2681.60	Pricing Time = 2
+i = 145	Master Time = 2	Lamb = 23478	Total time = 592	Obj = 2680.04	Pricing Time = 3
+i = 146	Master Time = 0	Lamb = 23520	Total time = 595	Obj = 2680.00	Pricing Time = 4
+i = 147	Master Time = 0	Lamb = 23536	Total time = 599	Obj = 2680.00	Pricing Time = 4
+i = 148	Master Time = 0	Lamb = 23546	Total time = 603	Obj = 2680.00	Pricing Time = 3
+i = 149	Master Time = 1	Lamb = 23547	Total time = 607	Obj = 2680.00	Pricing Time = 3
+i = 150	Master Time = 1	Lamb = 23549	Total time = 611	Obj = 2680.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1062
+X fix to 0: 0
+Fractional X remaining: 1392 | min(2.1617261028802903E-4, 0.9246458178095134)
+--------------------------------------
+i = 151	Master Time = 2	Lamb = 23549	Total time = 616	Obj = 2726.39	Pricing Time = 1
+i = 152	Master Time = 2	Lamb = 23870	Total time = 619	Obj = 2706.06	Pricing Time = 1
+i = 153	Master Time = 2	Lamb = 24046	Total time = 622	Obj = 2701.63	Pricing Time = 1
+i = 154	Master Time = 1	Lamb = 24196	Total time = 624	Obj = 2696.50	Pricing Time = 0
+i = 155	Master Time = 2	Lamb = 24292	Total time = 626	Obj = 2693.11	Pricing Time = 2
+i = 156	Master Time = 1	Lamb = 24374	Total time = 629	Obj = 2687.50	Pricing Time = 3
+i = 157	Master Time = 3	Lamb = 24434	Total time = 635	Obj = 2682.45	Pricing Time = 3
+i = 158	Master Time = 1	Lamb = 24499	Total time = 639	Obj = 2681.13	Pricing Time = 3
+i = 159	Master Time = 1	Lamb = 24550	Total time = 643	Obj = 2680.00	Pricing Time = 3
+i = 160	Master Time = 1	Lamb = 24568	Total time = 647	Obj = 2680.00	Pricing Time = 3
+i = 161	Master Time = 1	Lamb = 24571	Total time = 651	Obj = 2680.00	Pricing Time = 3
+i = 162	Master Time = 0	Lamb = 24572	Total time = 654	Obj = 2680.00	Pricing Time = 4
+i = 163	Master Time = 0	Lamb = 24573	Total time = 658	Obj = 2680.00	Pricing Time = 3
+i = 164	Master Time = 1	Lamb = 24574	Total time = 662	Obj = 2680.00	Pricing Time = 3
+i = 165	Master Time = 1	Lamb = 24577	Total time = 666	Obj = 2680.00	Pricing Time = 3
+i = 166	Master Time = 0	Lamb = 24578	Total time = 669	Obj = 2680.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1100
+X fix to 0: 0
+Fractional X remaining: 1240 | min(2.2767973846934356E-4, 0.9625358758031234)
+--------------------------------------
+i = 167	Master Time = 3	Lamb = 24578	Total time = 675	Obj = 2795.26	Pricing Time = 0
+i = 168	Master Time = 3	Lamb = 24854	Total time = 678	Obj = 2776.82	Pricing Time = 0
+i = 169	Master Time = 2	Lamb = 25106	Total time = 680	Obj = 2758.34	Pricing Time = 0
+i = 170	Master Time = 2	Lamb = 25288	Total time = 682	Obj = 2750.92	Pricing Time = 0
+i = 171	Master Time = 2	Lamb = 25418	Total time = 684	Obj = 2736.72	Pricing Time = 0
+i = 172	Master Time = 2	Lamb = 25534	Total time = 686	Obj = 2719.90	Pricing Time = 3
+i = 173	Master Time = 2	Lamb = 25618	Total time = 691	Obj = 2702.91	Pricing Time = 2
+i = 174	Master Time = 1	Lamb = 25681	Total time = 694	Obj = 2700.10	Pricing Time = 2
+i = 175	Master Time = 2	Lamb = 25731	Total time = 698	Obj = 2693.60	Pricing Time = 3
+i = 176	Master Time = 1	Lamb = 25788	Total time = 702	Obj = 2688.07	Pricing Time = 3
+i = 177	Master Time = 1	Lamb = 25838	Total time = 706	Obj = 2683.17	Pricing Time = 3
+i = 178	Master Time = 2	Lamb = 25894	Total time = 711	Obj = 2681.08	Pricing Time = 3
+i = 179	Master Time = 1	Lamb = 25939	Total time = 715	Obj = 2680.42	Pricing Time = 3
+i = 180	Master Time = 0	Lamb = 25968	Total time = 718	Obj = 2680.00	Pricing Time = 4
+i = 181	Master Time = 0	Lamb = 25979	Total time = 722	Obj = 2680.00	Pricing Time = 3
+i = 182	Master Time = 0	Lamb = 25980	Total time = 725	Obj = 2680.00	Pricing Time = 3
+i = 183	Master Time = 1	Lamb = 25982	Total time = 729	Obj = 2680.00	Pricing Time = 3
+i = 184	Master Time = 0	Lamb = 25984	Total time = 732	Obj = 2680.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1113
+X fix to 0: 0
+Fractional X remaining: 1028 | min(0.0012328561028633334, 0.981114466774535)
+--------------------------------------
+i = 185	Master Time = 3	Lamb = 25984	Total time = 738	Obj = 2696.33	Pricing Time = 0
+i = 186	Master Time = 2	Lamb = 26125	Total time = 740	Obj = 2690.39	Pricing Time = 3
+i = 187	Master Time = 1	Lamb = 26204	Total time = 744	Obj = 2685.97	Pricing Time = 2
+i = 188	Master Time = 2	Lamb = 26251	Total time = 748	Obj = 2681.99	Pricing Time = 3
+i = 189	Master Time = 2	Lamb = 26293	Total time = 753	Obj = 2680.40	Pricing Time = 2
+i = 190	Master Time = 0	Lamb = 26334	Total time = 755	Obj = 2680.00	Pricing Time = 4
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1147
+X fix to 0: 0
+Fractional X remaining: 1009 | min(0.0013241196817269443, 0.9410767689273816)
+--------------------------------------
+i = 191	Master Time = 2	Lamb = 26334	Total time = 761	Obj = 2785.61	Pricing Time = 0
+i = 192	Master Time = 3	Lamb = 26559	Total time = 764	Obj = 2715.65	Pricing Time = 0
+i = 193	Master Time = 3	Lamb = 26736	Total time = 767	Obj = 2704.85	Pricing Time = 0
+i = 194	Master Time = 3	Lamb = 26886	Total time = 770	Obj = 2700.07	Pricing Time = 0
+i = 195	Master Time = 1	Lamb = 27065	Total time = 771	Obj = 2698.46	Pricing Time = 1
+i = 196	Master Time = 1	Lamb = 27180	Total time = 773	Obj = 2695.45	Pricing Time = 3
+i = 197	Master Time = 1	Lamb = 27287	Total time = 777	Obj = 2693.36	Pricing Time = 2
+i = 198	Master Time = 2	Lamb = 27354	Total time = 781	Obj = 2687.67	Pricing Time = 2
+i = 199	Master Time = 2	Lamb = 27414	Total time = 785	Obj = 2684.89	Pricing Time = 3
+i = 200	Master Time = 1	Lamb = 27465	Total time = 789	Obj = 2683.75	Pricing Time = 4
+i = 201	Master Time = 1	Lamb = 27504	Total time = 794	Obj = 2682.16	Pricing Time = 3
+i = 202	Master Time = 1	Lamb = 27543	Total time = 798	Obj = 2681.78	Pricing Time = 4
+i = 203	Master Time = 1	Lamb = 27573	Total time = 803	Obj = 2680.61	Pricing Time = 4
+i = 204	Master Time = 1	Lamb = 27606	Total time = 808	Obj = 2680.00	Pricing Time = 3
+i = 205	Master Time = 0	Lamb = 27618	Total time = 811	Obj = 2680.00	Pricing Time = 3
+i = 206	Master Time = 1	Lamb = 27619	Total time = 815	Obj = 2680.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1173
+X fix to 0: 0
+Fractional X remaining: 776 | min(6.36066098752823E-4, 0.9014600900399226)
+--------------------------------------
+i = 207	Master Time = 2	Lamb = 27619	Total time = 820	Obj = 2759.27	Pricing Time = 1
+i = 208	Master Time = 1	Lamb = 27809	Total time = 822	Obj = 2735.74	Pricing Time = 1
+i = 209	Master Time = 2	Lamb = 27909	Total time = 825	Obj = 2726.91	Pricing Time = 0
+i = 210	Master Time = 2	Lamb = 28036	Total time = 827	Obj = 2721.78	Pricing Time = 3
+i = 211	Master Time = 2	Lamb = 28131	Total time = 832	Obj = 2712.26	Pricing Time = 2
+i = 212	Master Time = 1	Lamb = 28198	Total time = 835	Obj = 2707.49	Pricing Time = 3
+i = 213	Master Time = 2	Lamb = 28237	Total time = 840	Obj = 2695.63	Pricing Time = 1
+i = 214	Master Time = 2	Lamb = 28418	Total time = 843	Obj = 2694.42	Pricing Time = 2
+i = 215	Master Time = 1	Lamb = 28550	Total time = 846	Obj = 2687.93	Pricing Time = 3
+i = 216	Master Time = 1	Lamb = 28613	Total time = 850	Obj = 2685.40	Pricing Time = 3
+i = 217	Master Time = 1	Lamb = 28653	Total time = 854	Obj = 2683.29	Pricing Time = 3
+i = 218	Master Time = 1	Lamb = 28691	Total time = 858	Obj = 2681.24	Pricing Time = 3
+i = 219	Master Time = 2	Lamb = 28715	Total time = 863	Obj = 2680.05	Pricing Time = 2
+i = 220	Master Time = 1	Lamb = 28748	Total time = 866	Obj = 2680.00	Pricing Time = 3
+i = 221	Master Time = 0	Lamb = 28761	Total time = 869	Obj = 2680.00	Pricing Time = 3
+i = 222	Master Time = 1	Lamb = 28765	Total time = 873	Obj = 2680.00	Pricing Time = 4
+i = 223	Master Time = 0	Lamb = 28770	Total time = 877	Obj = 2680.00	Pricing Time = 3
+i = 224	Master Time = 1	Lamb = 28774	Total time = 881	Obj = 2680.00	Pricing Time = 3
+i = 225	Master Time = 0	Lamb = 28776	Total time = 884	Obj = 2680.00	Pricing Time = 4
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1190
+X fix to 0: 0
+Fractional X remaining: 671 | min(2.940890881805991E-4, 0.842654683595738)
+--------------------------------------
+i = 226	Master Time = 2	Lamb = 28776	Total time = 890	Obj = 2741.20	Pricing Time = 1
+i = 227	Master Time = 2	Lamb = 28962	Total time = 893	Obj = 2727.94	Pricing Time = 0
+i = 228	Master Time = 2	Lamb = 29072	Total time = 895	Obj = 2711.94	Pricing Time = 3
+i = 229	Master Time = 1	Lamb = 29144	Total time = 899	Obj = 2705.78	Pricing Time = 3
+i = 230	Master Time = 2	Lamb = 29189	Total time = 904	Obj = 2694.32	Pricing Time = 2
+i = 231	Master Time = 2	Lamb = 29309	Total time = 907	Obj = 2692.09	Pricing Time = 2
+i = 232	Master Time = 1	Lamb = 29377	Total time = 911	Obj = 2690.25	Pricing Time = 3
+i = 233	Master Time = 1	Lamb = 29419	Total time = 915	Obj = 2687.89	Pricing Time = 2
+i = 234	Master Time = 1	Lamb = 29468	Total time = 918	Obj = 2687.23	Pricing Time = 3
+i = 235	Master Time = 1	Lamb = 29506	Total time = 922	Obj = 2686.75	Pricing Time = 4
+i = 236	Master Time = 1	Lamb = 29525	Total time = 927	Obj = 2685.12	Pricing Time = 3
+i = 237	Master Time = 1	Lamb = 29550	Total time = 931	Obj = 2684.35	Pricing Time = 3
+i = 238	Master Time = 1	Lamb = 29570	Total time = 935	Obj = 2683.51	Pricing Time = 4
+i = 239	Master Time = 0	Lamb = 29590	Total time = 939	Obj = 2683.33	Pricing Time = 4
+i = 240	Master Time = 0	Lamb = 29595	Total time = 943	Obj = 2683.09	Pricing Time = 4
+i = 241	Master Time = 1	Lamb = 29608	Total time = 948	Obj = 2682.87	Pricing Time = 3
+i = 242	Master Time = 1	Lamb = 29627	Total time = 952	Obj = 2682.55	Pricing Time = 3
+i = 243	Master Time = 2	Lamb = 29645	Total time = 957	Obj = 2681.98	Pricing Time = 3
+i = 244	Master Time = 1	Lamb = 29664	Total time = 961	Obj = 2681.49	Pricing Time = 2
+i = 245	Master Time = 1	Lamb = 29685	Total time = 964	Obj = 2681.09	Pricing Time = 3
+i = 246	Master Time = 1	Lamb = 29702	Total time = 968	Obj = 2680.65	Pricing Time = 3
+i = 247	Master Time = 1	Lamb = 29720	Total time = 972	Obj = 2680.25	Pricing Time = 4
+i = 248	Master Time = 1	Lamb = 29736	Total time = 977	Obj = 2680.09	Pricing Time = 4
+i = 249	Master Time = 0	Lamb = 29757	Total time = 981	Obj = 2680.00	Pricing Time = 3
+i = 250	Master Time = 0	Lamb = 29758	Total time = 984	Obj = 2680.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1213
+X fix to 0: 0
+Fractional X remaining: 456 | min(0.0011887232103696202, 0.9968342755883066)
+--------------------------------------
+i = 251	Master Time = 3	Lamb = 29758	Total time = 989	Obj = 2736.17	Pricing Time = 0
+i = 252	Master Time = 1	Lamb = 29890	Total time = 991	Obj = 2731.39	Pricing Time = 2
+i = 253	Master Time = 1	Lamb = 29977	Total time = 994	Obj = 2721.07	Pricing Time = 2
+i = 254	Master Time = 1	Lamb = 30033	Total time = 997	Obj = 2707.40	Pricing Time = 3
+i = 255	Master Time = 1	Lamb = 30069	Total time = 1001	Obj = 2702.47	Pricing Time = 3
+i = 256	Master Time = 0	Lamb = 30096	Total time = 1004	Obj = 2699.71	Pricing Time = 4
+i = 257	Master Time = 1	Lamb = 30120	Total time = 1009	Obj = 2696.78	Pricing Time = 3
+i = 258	Master Time = 1	Lamb = 30152	Total time = 1013	Obj = 2693.61	Pricing Time = 3
+i = 259	Master Time = 1	Lamb = 30172	Total time = 1017	Obj = 2690.85	Pricing Time = 3
+i = 260	Master Time = 1	Lamb = 30192	Total time = 1021	Obj = 2688.40	Pricing Time = 3
+i = 261	Master Time = 1	Lamb = 30209	Total time = 1025	Obj = 2686.50	Pricing Time = 4
+i = 262	Master Time = 1	Lamb = 30226	Total time = 1030	Obj = 2685.21	Pricing Time = 3
+i = 263	Master Time = 2	Lamb = 30238	Total time = 1035	Obj = 2684.60	Pricing Time = 3
+i = 264	Master Time = 2	Lamb = 30254	Total time = 1040	Obj = 2684.17	Pricing Time = 4
+i = 265	Master Time = 0	Lamb = 30272	Total time = 1044	Obj = 2684.13	Pricing Time = 4
+i = 266	Master Time = 2	Lamb = 30288	Total time = 1050	Obj = 2683.96	Pricing Time = 3
+i = 267	Master Time = 0	Lamb = 30300	Total time = 1054	Obj = 2683.89	Pricing Time = 4
+i = 268	Master Time = 1	Lamb = 30312	Total time = 1059	Obj = 2683.85	Pricing Time = 3
+i = 269	Master Time = 1	Lamb = 30323	Total time = 1063	Obj = 2683.75	Pricing Time = 3
+i = 270	Master Time = 0	Lamb = 30335	Total time = 1067	Obj = 2683.75	Pricing Time = 4
+i = 271	Master Time = 1	Lamb = 30340	Total time = 1071	Obj = 2683.75	Pricing Time = 3
+i = 272	Master Time = 1	Lamb = 30342	Total time = 1075	Obj = 2683.75	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1238
+X fix to 0: 0
+Fractional X remaining: 249 | min(0.24999999999999223, 0.7500000000000091)
+--------------------------------------
+i = 273	Master Time = 3	Lamb = 30342	Total time = 1082	Obj = 2735.71	Pricing Time = 3
+i = 274	Master Time = 2	Lamb = 30454	Total time = 1087	Obj = 2726.50	Pricing Time = 3
+i = 275	Master Time = 2	Lamb = 30541	Total time = 1092	Obj = 2726.11	Pricing Time = 2
+i = 276	Master Time = 2	Lamb = 30621	Total time = 1096	Obj = 2722.50	Pricing Time = 3
+i = 277	Master Time = 2	Lamb = 30683	Total time = 1101	Obj = 2707.31	Pricing Time = 2
+i = 278	Master Time = 1	Lamb = 30772	Total time = 1105	Obj = 2700.00	Pricing Time = 3
+i = 279	Master Time = 2	Lamb = 30818	Total time = 1110	Obj = 2697.08	Pricing Time = 3
+i = 280	Master Time = 2	Lamb = 30852	Total time = 1115	Obj = 2696.25	Pricing Time = 3
+i = 281	Master Time = 2	Lamb = 30895	Total time = 1120	Obj = 2695.00	Pricing Time = 3
+i = 282	Master Time = 3	Lamb = 30950	Total time = 1126	Obj = 2695.00	Pricing Time = 2
+i = 283	Master Time = 2	Lamb = 30985	Total time = 1130	Obj = 2695.00	Pricing Time = 4
+i = 284	Master Time = 2	Lamb = 31014	Total time = 1136	Obj = 2694.41	Pricing Time = 3
+i = 285	Master Time = 2	Lamb = 31080	Total time = 1141	Obj = 2693.50	Pricing Time = 3
+i = 286	Master Time = 2	Lamb = 31118	Total time = 1146	Obj = 2693.33	Pricing Time = 3
+i = 287	Master Time = 2	Lamb = 31171	Total time = 1151	Obj = 2693.33	Pricing Time = 3
+i = 288	Master Time = 2	Lamb = 31198	Total time = 1156	Obj = 2693.00	Pricing Time = 2
+i = 289	Master Time = 3	Lamb = 31235	Total time = 1160	Obj = 2693.00	Pricing Time = 2
+i = 290	Master Time = 2	Lamb = 31268	Total time = 1165	Obj = 2692.50	Pricing Time = 3
+i = 291	Master Time = 3	Lamb = 31304	Total time = 1170	Obj = 2692.50	Pricing Time = 2
+i = 292	Master Time = 1	Lamb = 31328	Total time = 1174	Obj = 2692.50	Pricing Time = 4
+i = 293	Master Time = 2	Lamb = 31347	Total time = 1180	Obj = 2692.50	Pricing Time = 4
+i = 294	Master Time = 1	Lamb = 31371	Total time = 1185	Obj = 2692.50	Pricing Time = 3
+i = 295	Master Time = 2	Lamb = 31390	Total time = 1190	Obj = 2692.50	Pricing Time = 3
+i = 296	Master Time = 2	Lamb = 31416	Total time = 1195	Obj = 2692.50	Pricing Time = 3
+i = 297	Master Time = 1	Lamb = 31433	Total time = 1199	Obj = 2692.50	Pricing Time = 3
+i = 298	Master Time = 1	Lamb = 31444	Total time = 1203	Obj = 2692.50	Pricing Time = 3
+i = 299	Master Time = 1	Lamb = 31459	Total time = 1207	Obj = 2692.50	Pricing Time = 3
+i = 300	Master Time = 2	Lamb = 31469	Total time = 1212	Obj = 2692.50	Pricing Time = 3
+i = 301	Master Time = 1	Lamb = 31479	Total time = 1216	Obj = 2692.50	Pricing Time = 3
+i = 302	Master Time = 2	Lamb = 31486	Total time = 1221	Obj = 2692.50	Pricing Time = 3
+i = 303	Master Time = 2	Lamb = 31493	Total time = 1226	Obj = 2692.50	Pricing Time = 3
+i = 304	Master Time = 1	Lamb = 31498	Total time = 1230	Obj = 2692.50	Pricing Time = 4
+i = 305	Master Time = 1	Lamb = 31503	Total time = 1235	Obj = 2692.50	Pricing Time = 4
+i = 306	Master Time = 2	Lamb = 31509	Total time = 1240	Obj = 2692.50	Pricing Time = 2
+i = 307	Master Time = 1	Lamb = 31512	Total time = 1244	Obj = 2692.50	Pricing Time = 3
+i = 308	Master Time = 1	Lamb = 31523	Total time = 1248	Obj = 2692.50	Pricing Time = 4
+i = 309	Master Time = 1	Lamb = 31527	Total time = 1253	Obj = 2692.50	Pricing Time = 3
+i = 310	Master Time = 1	Lamb = 31529	Total time = 1257	Obj = 2692.50	Pricing Time = 4
+i = 311	Master Time = 0	Lamb = 31533	Total time = 1261	Obj = 2692.50	Pricing Time = 4
+i = 312	Master Time = 1	Lamb = 31540	Total time = 1266	Obj = 2692.50	Pricing Time = 4
+i = 313	Master Time = 0	Lamb = 31541	Total time = 1270	Obj = 2692.50	Pricing Time = 4
+i = 314	Master Time = 1	Lamb = 31545	Total time = 1274	Obj = 2692.50	Pricing Time = 3
+i = 315	Master Time = 0	Lamb = 31546	Total time = 1278	Obj = 2692.50	Pricing Time = 4
+i = 316	Master Time = 1	Lamb = 31547	Total time = 1282	Obj = 2692.50	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1244
+X fix to 0: 0
+Fractional X remaining: 192 | min(0.12499999999999761, 0.8750000000000016)
+--------------------------------------
+i = 317	Master Time = 2	Lamb = 31547	Total time = 1288	Obj = 2719.37	Pricing Time = 2
+i = 318	Master Time = 2	Lamb = 31582	Total time = 1292	Obj = 2701.67	Pricing Time = 3
+i = 319	Master Time = 0	Lamb = 31597	Total time = 1295	Obj = 2692.50	Pricing Time = 4
+i = 320	Master Time = 1	Lamb = 31606	Total time = 1300	Obj = 2692.50	Pricing Time = 3
+i = 321	Master Time = 1	Lamb = 31610	Total time = 1304	Obj = 2692.50	Pricing Time = 3
+i = 322	Master Time = 1	Lamb = 31613	Total time = 1308	Obj = 2692.50	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1245
+X fix to 0: 1
+Fractional X remaining: 164 | min(0.4999999999999942, 0.5000000000000058)
+--------------------------------------
+i = 323	Master Time = 1	Lamb = 31613	Total time = 1312	Obj = 2716.67	Pricing Time = 3
+i = 324	Master Time = 2	Lamb = 31626	Total time = 1317	Obj = 2712.14	Pricing Time = 3
+i = 325	Master Time = 1	Lamb = 31641	Total time = 1320	Obj = 2710.23	Pricing Time = 3
+i = 326	Master Time = 1	Lamb = 31652	Total time = 1325	Obj = 2709.14	Pricing Time = 3
+i = 327	Master Time = 1	Lamb = 31663	Total time = 1329	Obj = 2708.33	Pricing Time = 3
+i = 328	Master Time = 1	Lamb = 31669	Total time = 1332	Obj = 2708.33	Pricing Time = 3
+i = 329	Master Time = 0	Lamb = 31670	Total time = 1336	Obj = 2707.22	Pricing Time = 3
+i = 330	Master Time = 1	Lamb = 31672	Total time = 1340	Obj = 2707.22	Pricing Time = 3
+i = 331	Master Time = 0	Lamb = 31674	Total time = 1343	Obj = 2706.67	Pricing Time = 4
+i = 332	Master Time = 0	Lamb = 31676	Total time = 1347	Obj = 2706.67	Pricing Time = 4
+i = 333	Master Time = 0	Lamb = 31679	Total time = 1351	Obj = 2706.67	Pricing Time = 4
+i = 334	Master Time = 1	Lamb = 31681	Total time = 1356	Obj = 2706.67	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1249
+X fix to 0: 1
+Fractional X remaining: 124 | min(0.16666666666666485, 0.8333333333333365)
+--------------------------------------
+i = 335	Master Time = 1	Lamb = 31681	Total time = 1360	Obj = 2709.00	Pricing Time = 3
+i = 336	Master Time = 1	Lamb = 31687	Total time = 1364	Obj = 2709.00	Pricing Time = 3
+i = 337	Master Time = 1	Lamb = 31693	Total time = 1368	Obj = 2709.00	Pricing Time = 3
+i = 338	Master Time = 1	Lamb = 31699	Total time = 1372	Obj = 2708.00	Pricing Time = 3
+i = 339	Master Time = 0	Lamb = 31705	Total time = 1375	Obj = 2708.00	Pricing Time = 4
+i = 340	Master Time = 1	Lamb = 31709	Total time = 1380	Obj = 2706.67	Pricing Time = 3
+i = 341	Master Time = 1	Lamb = 31713	Total time = 1384	Obj = 2706.67	Pricing Time = 2
+i = 342	Master Time = 1	Lamb = 31715	Total time = 1387	Obj = 2706.67	Pricing Time = 3
+i = 343	Master Time = 1	Lamb = 31719	Total time = 1391	Obj = 2706.67	Pricing Time = 3
+i = 344	Master Time = 1	Lamb = 31721	Total time = 1395	Obj = 2706.67	Pricing Time = 3
+i = 345	Master Time = 1	Lamb = 31722	Total time = 1399	Obj = 2706.67	Pricing Time = 3
+i = 346	Master Time = 1	Lamb = 31724	Total time = 1403	Obj = 2706.67	Pricing Time = 4
+i = 347	Master Time = 0	Lamb = 31731	Total time = 1407	Obj = 2706.67	Pricing Time = 3
+i = 348	Master Time = 1	Lamb = 31734	Total time = 1411	Obj = 2706.67	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1250
+X fix to 0: 2
+Fractional X remaining: 114 | min(0.3333333333333319, 0.6666666666666696)
+--------------------------------------
+i = 349	Master Time = 0	Lamb = 31734	Total time = 1414	Obj = 2709.00	Pricing Time = 3
+i = 350	Master Time = 0	Lamb = 31745	Total time = 1417	Obj = 2709.00	Pricing Time = 4
+i = 351	Master Time = 1	Lamb = 31750	Total time = 1422	Obj = 2709.00	Pricing Time = 3
+i = 352	Master Time = 0	Lamb = 31756	Total time = 1425	Obj = 2709.00	Pricing Time = 4
+i = 353	Master Time = 0	Lamb = 31757	Total time = 1429	Obj = 2708.00	Pricing Time = 3
+i = 354	Master Time = 1	Lamb = 31764	Total time = 1433	Obj = 2708.00	Pricing Time = 3
+i = 355	Master Time = 1	Lamb = 31767	Total time = 1437	Obj = 2708.00	Pricing Time = 3
+--------------------------------------
+n110w4_2_5-1-3-0
+X fix to 1: 1283
+X fix to 0: 2
+Fractional X remaining: 118 | min(0.19999999999999019, 0.8000000000000006)
+--------------------------------------
+i = 356	Master Time = 1	Lamb = 31767	Total time = 1440	Obj = 2710.00	Pricing Time = 3
+i = 357	Master Time = 1	Lamb = 31771	Total time = 1445	Obj = 2710.00	Pricing Time = 3
+i = 358	Master Time = 1	Lamb = 31776	Total time = 1449	Obj = 2710.00	Pricing Time = 3
+i = 359	Master Time = 0	Lamb = 31777	Total time = 1452	Obj = 2710.00	Pricing Time = 3
+i = 360	Master Time = 1	Lamb = 31788	Total time = 1456	Obj = 2710.00	Pricing Time = 2
+i = 361	Master Time = 1	Lamb = 31794	Total time = 1459	Obj = 2710.00	Pricing Time = 3
+i = 362	Master Time = 0	Lamb = 31797	Total time = 1462	Obj = 2710.00	Pricing Time = 4
+i = 363	Master Time = 0	Lamb = 31798	Total time = 1466	Obj = 2710.00	Pricing Time = 3
+
+n110w4_2_5-1-3-0
+Integer solution found
+
+Printing SHIFT allocations
+HN_0   |-|-|D|D|D|D|D| |D|-|-|-|-|D|D| |D|D|D|-|-|-|-| |D|D|D|D|D|-|-|
+HN_1   |D|D|-|-|-|-|-| |D|D|-|-|-|-|-| |D|D|-|-|-|-|-| |-|-|D|D|-|-|D|
+HN_2   |E|E|-|-|-|-|N| |N|N|N|-|-|-|-| |L|L|-|-|-|-|-| |E|E|-|-|-|-|-|
+HN_3   |N|-|-|L|L|L|L| |L|-|-|D|D|L|L| |-|-|L|L|L|-|-| |L|L|L|L|L|-|-|
+HN_4   |-|-|-|-|-|-|-| |L|L|L|L|-|-|-| |L|L|L|-|-|-|-| |-|-|-|L|L|N|N|
+HN_5   |L|L|L|-|-|-|-| |-|D|D|D|-|-|-| |-|E|E|E|E|-|-| |-|-|-|-|-|E|E|
+HN_6   |E|E|-|-|-|E|E| |E|E|E|-|-|-|-| |E|E|E|E|-|-|-| |E|E|E|E|-|-|-|
+HN_7   |-|D|D|D|D|-|-| |-|-|D|D|D|D|D| |-|-|-|-|D|D|D| |D|D|D|-|-|-|-|
+HN_8   |D|D|D|D|-|-|-| |-|L|L|L|L|-|-| |-|-|D|D|D|L|L| |-|-|-|-|E|E|D|
+HN_9   |-|E|E|E|-|-|-| |-|-|-|-|E|E|E| |E|-|-|-|-|-|-| |E|E|E|E|-|-|-|
+HN_10  |-|L|L|L|L|-|-| |-|D|D|L|L|-|-| |-|-|D|D|D|E|E| |-|-|-|L|L|L|L|
+HN_11  |-|-|-|-|-|E|E| |E|E|-|-|-|-|-| |E|E|-|-|-|-|-| |-|L|L|-|-|-|-|
+HN_12  |-|-|E|E|E|-|-| |-|-|-|N|N|N|N| |-|-|-|-|-|-|-| |N|N|N|N|-|-|-|
+HN_13  |-|N|N|N|N|-|-| |-|N|N|N|N|-|-| |-|-|N|N|N|N|N| |-|-|-|-|N|N|N|
+HN_14  |-|-|E|E|E|-|-| |-|-|-|-|-|E|E| |D|D|-|-|-|-|-| |-|E|E|E|E|-|-|
+HN_15  |D|-|-|-|-|N|N| |N|N|-|-|-|N|N| |N|N|N|-|-|-|-| |N|N|N|N|N|-|-|
+HN_16  |L|L|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|L|L|-|-|
+HN_17  |E|E|E|-|-|-|-| |-|E|E|E|E|-|-| |-|-|-|-|E|E|E| |E|-|-|-|-|-|-|
+HN_18  |-|-|N|N|N|N|N| |-|-|E|E|E|-|-| |N|N|N|N|N|-|-| |D|D|D|D|D|-|-|
+HN_19  |N|N|N|N|-|-|-| |D|D|L|L|-|-|-| |E|E|L|L|-|-|-| |N|N|N|N|-|-|-|
+NU_20  |-|-|-|-|L|L|L| |L|-|-|-|-|-|-| |L|L|L|-|-|-|-| |-|L|L|L|L|-|-|
+NU_21  |E|-|-|N|N|N|N| |N|-|-|D|D|D|D| |-|-|L|L|L|-|-| |N|N|N|N|N|-|-|
+NU_22  |D|D|D|D|D|-|-| |D|D|D|D|D|-|-| |D|D|D|-|-|D|D| |D|-|-|D|D|D|D|
+NU_23  |-|N|N|N|N|-|-| |-|N|N|N|N|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-|
+NU_24  |L|-|-|-|-|-|-| |N|N|N|N|N|-|-| |-|-|-|-|N|N|N| |N|N|-|-|-|-|-|
+NU_25  |-|-|-|-|-|-|-| |E|E|E|-|-|-|-| |E|E|E|E|E|-|-| |-|-|-|-|E|E|E|
+NU_26  |-|D|D|-|-|-|-| |-|-|-|D|D|-|-| |-|-|-|-|D|D|D| |-|-|-|-|-|-|-|
+NU_27  |-|N|N|N|N|-|-| |-|E|E|-|-|-|-| |E|E|E|-|-|-|-| |-|-|-|E|E|-|-|
+NU_28  |-|-|-|-|-|-|-| |E|E|E|-|-|-|-| |E|E|E|E|E|-|-| |-|-|-|-|E|E|D|
+NU_29  |L|-|-|-|-|L|L| |L|L|L|-|-|-|-| |L|L|L|L|-|-|-| |D|D|L|L|L|-|-|
+NU_30  |N|N|N|N|N|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-| |N|N|N|N|N|-|-|
+NU_31  |N|N|N|N|-|-|-| |N|N|N|N|-|-|-| |N|N|N|N|N|-|-| |-|-|-|-|N|N|N|
+NU_32  |N|-|-|E|E|E|D| |D|-|-|E|E|E|E| |-|-|E|E|E|-|-| |D|D|E|E|E|-|-|
+NU_33  |-|-|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|-|-|L|L| |L|L|-|-|L|L|L|
+NU_34  |-|E|E|-|-|-|-| |E|E|-|-|-|-|-| |E|E|-|-|-|-|E| |E|-|-|-|-|-|-|
+NU_35  |-|L|L|L|L|-|-| |-|L|L|L|L|-|-| |-|-|L|L|L|L|L| |-|-|-|-|N|N|N|
+NU_36  |N|N|N|N|-|-|-| |N|N|N|N|-|-|-| |N|N|N|N|N|-|-| |-|-|-|-|-|N|N|
+NU_37  |D|D|-|-|-|-|-| |-|-|D|D|D|-|-| |-|-|D|D|D|-|-| |-|-|-|-|D|D|L|
+NU_38  |L|L|-|-|L|L|L| |L|L|-|-|L|L|L| |-|-|L|L|L|-|-| |L|L|L|L|L|-|-|
+NU_39  |D|-|-|-|-|D|D| |D|D|D|-|-|-|-| |D|D|D|D|D|-|-| |-|-|D|D|D|L|L|
+CT_40  |-|-|-|E|E|-|-| |-|-|-|-|-|E|E| |-|-|-|-|-|-|-| |E|E|-|-|-|-|-|
+CT_41  |-|-|-|L|L|-|-| |-|-|-|-|-|L|L| |-|-|-|-|-|-|-| |L|L|-|-|-|-|-|
+CT_42  |D|D|-|-|D|D|D| |D|-|-|D|D|D|D| |-|-|D|D|D|-|-| |D|D|D|D|D|-|-|
+CT_43  |-|-|-|-|-|E|E| |-|-|-|-|-|-|-| |E|E|-|-|-|-|-| |-|-|E|E|-|-|-|
+CT_44  |-|N|N|N|N|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-| |N|N|N|N|N|-|-|
+CT_45  |L|L|L|L|-|-|-| |N|N|N|N|-|-|-| |N|N|N|N|N|-|-| |-|-|L|L|L|L|N|
+CT_46  |-|-|-|-|-|D|D| |D|D|D|-|-|-|-| |D|D|D|-|-|-|-| |-|-|D|D|D|-|-|
+CT_47  |E|E|-|-|E|E|E| |E|-|-|E|E|E|E| |-|-|E|E|E|-|-| |E|E|E|E|E|-|-|
+CT_48  |-|-|D|D|D|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-| |-|E|E|L|L|-|-|
+CT_49  |E|E|E|E|E|-|-| |E|E|E|E|E|-|-| |E|E|E|-|-|E|E| |E|-|-|E|E|E|E|
+CT_50  |E|E|E|-|-|-|-| |E|E|E|E|E|-|-| |-|-|E|E|E|E|E| |-|-|-|-|E|E|D|
+CT_51  |E|E|E|-|-|-|-| |-|-|-|D|D|D|D| |-|-|-|-|-|-|-| |D|D|D|D|-|-|-|
+CT_52  |-|N|N|N|N|-|-| |-|N|N|N|N|-|-| |-|N|N|N|N|-|-| |-|L|L|L|L|-|-|
+CT_53  |E|E|E|D|D|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-| |-|D|D|D|D|-|-|
+CT_54  |N|N|-|-|L|L|L| |-|-|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|-|-|N|N|
+CT_55  |-|L|L|-|-|-|-| |L|L|-|-|-|-|-| |L|L|-|-|-|-|-| |L|L|-|-|-|-|E|
+CT_56  |-|-|-|-|-|-|-| |L|L|-|-|-|-|-| |L|L|-|-|-|-|-| |-|L|L|-|-|-|E|
+CT_57  |-|-|-|-|-|N|N| |N|N|-|-|-|-|-| |-|N|N|N|N|-|-| |-|-|L|L|L|-|-|
+CT_58  |D|D|-|-|-|-|-| |-|-|D|D|-|-|-| |-|-|-|-|D|D|-| |-|-|D|D|D|-|-|
+CT_59  |-|D|D|D|D|-|-| |-|N|N|N|N|-|-| |-|-|E|E|E|E|E| |-|-|-|-|L|L|N|
+CT_60  |L|-|-|-|-|-|-| |L|L|L|-|-|-|-| |L|L|L|L|L|-|-| |-|-|-|-|-|L|L|
+CT_61  |-|L|L|-|-|-|-| |L|L|-|-|-|-|-| |L|L|-|-|-|-|L| |L|-|-|-|-|-|-|
+CT_62  |E|E|L|L|L|-|-| |N|N|N|N|N|-|-| |D|D|E|E|E|-|-| |N|N|N|N|N|-|-|
+CT_63  |D|D|D|D|-|-|-| |-|D|D|D|D|-|-| |-|-|D|D|D|D|L| |L|-|-|-|-|L|L|
+CT_64  |N|N|N|-|-|-|-| |-|N|N|N|N|-|-| |-|-|-|-|N|N|N| |N|-|-|-|-|-|-|
+CT_65  |D|D|D|D|D|-|-| |D|D|D|D|D|-|-| |D|D|D|D|D|-|-| |D|D|D|-|-|D|D|
+CT_66  |N|-|-|-|-|D|D| |D|L|L|-|-|-|-| |N|N|N|N|N|-|-| |-|E|E|D|D|-|-|
+CT_67  |-|L|L|-|-|-|-| |-|-|-|L|L|-|-| |-|-|-|-|-|L|L| |-|-|-|-|-|-|-|
+CT_68  |-|-|-|-|E|E|E| |E|-|-|-|-|-|-| |E|E|E|-|-|-|-| |N|N|N|N|-|-|-|
+CT_69  |-|-|E|E|E|-|-| |-|-|E|E|E|-|-| |-|-|N|N|N|N|N| |-|-|-|-|-|-|-|
+CT_70  |D|D|D|D|D|-|-| |-|-|D|D|L|L|L| |-|-|-|-|D|D|D| |D|D|D|-|-|-|-|
+CT_71  |D|D|-|-|-|-|-| |D|D|-|-|-|-|D| |D|-|-|-|-|-|-| |E|E|-|-|-|-|-|
+CT_72  |-|L|L|-|-|-|-| |-|-|-|L|L|-|-| |-|-|-|-|-|L|L| |-|-|-|-|-|-|-|
+CT_73  |D|D|-|-|-|-|-| |D|D|-|-|-|-|-| |D|D|-|-|-|-|-| |D|D|-|-|-|-|E|
+CT_74  |-|-|-|E|E|-|-| |-|-|-|-|E|E|-| |-|-|-|E|E|-|-| |-|-|-|E|E|-|-|
+CT_75  |-|-|N|N|N|N|N| |-|-|-|-|D|D|N| |N|N|N|-|-|-|-| |N|N|N|N|-|-|-|
+CT_76  |N|-|E|E|E|-|-| |E|E|E|D|D|-|-| |N|N|N|N|N|-|-| |N|N|N|N|N|-|-|
+CT_77  |L|L|L|L|L|-|-| |D|D|D|L|L|-|-| |D|D|D|-|-|D|D| |D|-|-|E|E|D|D|
+CT_78  |L|-|-|N|N|N|N| |-|-|E|E|E|-|-| |D|D|D|D|D|-|-| |E|E|E|E|E|-|-|
+CT_79  |-|-|-|L|L|-|-| |-|-|-|-|-|L|L| |-|-|-|-|-|-|-| |L|L|-|-|-|-|-|
+TR_80  |-|-|D|D|D|L|L| |L|-|-|-|D|D|D| |D|L|L|-|-|-|-| |N|N|N|N|-|-|-|
+TR_81  |E|E|E|-|-|-|-| |E|E|E|-|-|-|-| |-|-|-|N|N|N|N| |N|-|-|-|-|-|-|
+TR_82  |-|-|E|E|E|-|-| |-|-|-|-|N|N|N| |N|N|-|-|-|-|-| |-|-|D|D|D|-|-|
+TR_83  |D|-|-|-|L|L|L| |L|-|-|-|D|D|D| |D|D|D|D|-|-|-| |-|N|N|N|N|-|-|
+TR_84  |-|D|D|E|E|-|-| |-|-|N|N|N|N|N| |-|-|-|-|E|E|L| |L|L|L|-|-|-|-|
+TR_85  |L|L|-|-|-|-|-| |L|L|-|-|-|-|L| |L|-|-|L|L|-|-| |-|-|-|D|D|-|-|
+TR_86  |-|-|E|E|E|-|-| |-|-|-|-|E|E|E| |E|-|-|-|-|-|-| |D|D|D|D|-|-|-|
+TR_87  |-|D|D|D|D|-|-| |-|D|D|D|D|-|-| |-|-|D|D|D|E|E| |-|-|-|-|D|D|N|
+TR_88  |E|E|E|E|-|-|-| |E|E|E|E|-|-|-| |-|E|E|E|E|-|-| |-|E|E|E|E|-|-|
+TR_89  |E|E|-|-|E|E|E| |-|-|E|E|E|-|-| |E|E|E|E|E|-|-| |E|E|E|E|E|-|-|
+TR_90  |N|N|-|-|-|-|-| |E|E|E|-|-|-|-| |-|E|E|E|-|-|-| |-|-|-|-|E|E|E|
+TR_91  |-|-|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|L|L|-|-| |L|L|L|-|-|L|L|
+TR_92  |-|-|-|-|-|-|E| |E|-|-|-|-|-|-| |L|L|-|-|-|-|-| |L|L|-|-|-|-|-|
+TR_93  |-|-|-|-|E|E|D| |D|-|-|-|-|-|-| |-|N|N|N|N|-|-| |-|-|E|E|E|-|-|
+TR_94  |D|D|D|-|-|-|-| |D|D|D|-|-|-|-| |-|D|D|D|-|-|-| |-|-|-|D|D|D|D|
+TR_95  |-|-|-|D|D|-|-| |-|-|-|D|D|-|-| |-|-|-|D|D|-|-| |D|D|-|-|D|D|-|
+TR_96  |N|N|N|N|-|-|-| |N|N|N|N|-|-|-| |N|N|N|N|-|-|-| |-|N|N|N|N|-|-|
+TR_97  |L|L|-|-|N|N|N| |N|N|-|-|E|E|E| |-|-|L|L|L|-|-| |D|D|D|E|E|-|-|
+TR_98  |-|N|N|N|N|-|-| |-|-|E|E|N|N|N| |N|-|-|-|-|N|N| |N|N|N|-|-|-|-|
+TR_99  |N|N|N|N|N|-|-| |-|-|D|D|D|E|E| |-|-|-|-|D|D|E| |E|E|E|-|-|-|-|
+TR_100 |D|D|D|D|D|-|-| |D|D|D|E|E|-|-| |D|D|D|E|E|-|-| |D|D|D|-|-|E|E|
+TR_101 |N|N|N|N|N|-|-| |D|D|D|L|L|-|-| |D|D|D|L|L|-|-| |N|N|N|N|N|-|-|
+TR_102 |E|E|-|-|-|-|-| |E|E|-|-|-|-|-| |E|E|-|-|-|-|E| |E|-|-|-|-|-|-|
+TR_103 |-|-|L|L|L|-|-| |-|-|-|-|L|L|L| |L|-|-|-|-|-|-| |-|L|L|L|L|-|-|
+TR_104 |D|D|-|-|D|D|D| |-|-|E|E|E|-|-| |E|E|L|L|L|-|-| |E|E|L|L|-|-|-|
+TR_105 |N|N|N|-|-|-|-| |N|N|N|N|-|-|-| |-|N|N|N|N|-|-| |-|-|E|E|N|N|N|
+TR_106 |-|-|L|L|L|-|-| |D|D|L|L|L|-|-| |L|L|L|-|-|L|L| |L|-|-|L|L|L|L|
+TR_107 |L|L|L|L|-|-|-| |N|N|N|N|N|-|-| |-|E|E|D|D|D|D| |D|-|-|-|-|L|L|
+TR_108 |-|-|-|E|E|-|-| |L|L|-|-|-|-|-| |E|E|-|-|-|-|E| |E|-|-|-|-|-|-|
+TR_109 |L|L|-|-|-|N|N| |N|N|N|-|-|-|-| |N|N|N|N|-|-|-| |-|E|E|L|L|-|-|
+Total assignment constraints: 2300
+Consecutive constraints: 60
+Non working days constraints: 30
+Preferences: 230
+Max working weekend: 0
+Complete weekends: 0
+Optimal coverage constraints: 90
+TOTAL = 2710
