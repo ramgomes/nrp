@@ -28,14 +28,22 @@ Usage: java -jar inrc2.jar <scenario> <weekdata> <history> <solution> [options]
     <minRoundDown>  : rounding threshold down in Relax-and-Fix (default: -minRoundDown -1).
 
 Options:
-	-initSol        : Solution Files for horizon, in XML format.
-	-solver         : 0 = cplex (default) / 1 = gurobi
-	-nThreads       : 0 = Sequential mode (default) / number of threads available
-	-onlyRelax      : true / false (default)
-	-bestKnow       : Best know value for instance.
+    -initSol        : Solution Files for horizon, in XML format.
+    -solver         : 0 = cplex (default) / 1 = gurobi
+    -nThreads       : 0 = Sequential mode (default) / number of threads available
+    -onlyRelax      : true / false (default)
+    -bestKnow       : Best know value for instance.
 
 Examples:
     java -Djava.library.path=/opt/CPLEX_Studio1271/cplex/bin/x86-64_linux/ -jar inrc2.jar data/n110w8/Sc-n110w8.xml data/n110w8/WD-n110w8-8.xml data/n110w8/WD-n110w8-8.xml data/n110w8/WD-n110w8-2.xml data/n110w8/WD-n110w8-2.xml data/n110w8/WD-n110w8-3.xml data/n110w8/WD-n110w8-2.xml data/n110w8/WD-n110w8-0.xml data/n110w8/WD-n110w8-8.xml data/n110w8/H0-n110w8-0.xml -out out/ -onlyRelax false -timeout 300000 -solver 0
+```
+
+The validator can then be run by:
+
+```
+Usage: 
+    java -jar validator.jar --sce data/n035w4/Sc-n035w4.xml --his data/n035w4/H0-n035w4-0.xml --weeks data/n035w4/WD-n035w4-1.xml data/n035w4/WD-n035w4-7.xml data/n035w4/WD-n035w4-1.xml data/n035w4/WD-n035w4-8.xml --sols out/n035w4_0_1-7-1-8/sol-week0.xml out/n035w4_0_1-7-1-8/sol-week1.xml out/n035w4_0_1-7-1-8/sol-week2.xml out/n035w4_0_1-7-1-8/sol-week3.xml > out/n035w4_0_1-7-1-8/validator.txt
+
 ```
 
 
