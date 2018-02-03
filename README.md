@@ -1,4 +1,4 @@
-# NRP Solver
+# Nurse Rostering Problem
 
 The Nurse Rostering Problem (NRP) is an optimization problem where nurses with specific skills must be assigned shifts in a schedule. The objective is to obtain a feasible solution while minimizing the number of soft constraint violations. This code presents a Variable Neighborhood Search accelerated Column Generation procedure for the NRP in addition to a Relax-and-fix Heuristic for obtaining feasible solutions.
 
@@ -7,12 +7,13 @@ Every information about INRC-II can be found on their website http://mobiz.vives
 
 [1] S. Ceschia, N. Thi, T. Dang, and P. De Causmaecker, "Second International Nurse Rostering Competition (INRC-II): Problem Description and Rules." p. 1–18, 2015.
 
-The methods implemented in this code are all described in the following work.  Please cite this reference in any use of our code.
+The methods implemented in this code are all described in the following work.  (Please cite this reference in any use of our code).
+
 [2] R. Gomes, T. Toffolo and H. Santos, "Variable neighborhood search accelerated column generation for the nurse rostering problem", p. 31-38, 2017, Electronic Notes in Discrete Mathematics.
 
 These two references can also be found in the directory ./references.
 
-## Nurse Rostering Problem Solver
+## Solver
 
 Written by Rafael Gomes, Túlio Toffolo and Haroldo Santos.
 
@@ -21,7 +22,7 @@ More information: <a href="http://goal.ufop.br/nrp2/" target="_blank">http://goa
 
 Please address all contributions, suggestions, and inquiries to the current project administrator.
 
-## Usage examples:
+### Usage examples:
 
 Column geration approach:
 
