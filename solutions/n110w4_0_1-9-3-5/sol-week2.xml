@@ -47,93 +47,93 @@
         </Assignment>
         <Assignment>
             <Nurse>HN_2</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <Day>Thu</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_2</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_3</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <Day>Fri</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_3</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <Day>Mon</Day>
+            <ShiftType>Night</ShiftType>
             <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_3</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_3</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_3</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_3</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Early</ShiftType>
+            <Day>Thu</Day>
+            <ShiftType>Night</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>HN_4</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_4</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <Nurse>HN_3</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_4</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_4</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_4</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_5</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_5</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_5</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_6</Nurse>
             <Day>Wed</Day>
             <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_6</Nurse>
             <Day>Thu</Day>
             <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_6</Nurse>
@@ -179,33 +179,33 @@
         </Assignment>
         <Assignment>
             <Nurse>HN_8</Nurse>
-            <Day>Mon</Day>
+            <Day>Fri</Day>
             <ShiftType>Day</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_8</Nurse>
-            <Day>Tue</Day>
+            <Day>Sat</Day>
             <ShiftType>Day</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_8</Nurse>
-            <Day>Wed</Day>
+            <Day>Sun</Day>
             <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_9</Nurse>
             <Day>Mon</Day>
             <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_9</Nurse>
             <Day>Tue</Day>
             <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_9</Nurse>
@@ -216,68 +216,68 @@
         <Assignment>
             <Nurse>HN_10</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_10</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_10</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_10</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_10</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_11</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_11</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_12</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_12</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_12</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_12</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_12</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_13</Nurse>
             <Day>Mon</Day>
             <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_13</Nurse>
@@ -289,7 +289,19 @@
             <Nurse>HN_13</Nurse>
             <Day>Wed</Day>
             <ShiftType>Night</ShiftType>
+            <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_13</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_13</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_14</Nurse>
@@ -298,153 +310,159 @@
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
+            <Nurse>HN_14</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_14</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
             <Nurse>HN_15</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_15</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_15</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Night</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_15</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Night</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_15</Nurse>
             <Day>Sun</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_16</Nurse>
+            <Day>Mon</Day>
             <ShiftType>Day</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_16</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_16</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_16</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_16</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_16</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_16</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_17</Nurse>
             <Day>Mon</Day>
             <ShiftType>Night</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_18</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>HeadNurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_18</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_18</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
+            <Skill>HeadNurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_19</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>HN_19</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_19</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Early</ShiftType>
+            <Skill>HeadNurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>HN_19</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_19</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_19</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>HeadNurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>HN_19</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_20</Nurse>
             <Day>Mon</Day>
             <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_21</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_21</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_21</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_21</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
+            <Day>Sat</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_21</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <Day>Sun</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
@@ -457,13 +475,13 @@
             <Nurse>NU_22</Nurse>
             <Day>Thu</Day>
             <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_22</Nurse>
             <Day>Fri</Day>
             <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_23</Nurse>
@@ -480,7 +498,7 @@
         <Assignment>
             <Nurse>NU_23</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
@@ -502,64 +520,88 @@
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
+            <Nurse>NU_24</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_24</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
             <Nurse>NU_25</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_25</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_25</Nurse>
             <Day>Wed</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_26</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_26</Nurse>
+            <Day>Sat</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_26</Nurse>
+            <Day>Sun</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Nurse</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_27</Nurse>
+            <Day>Wed</Day>
             <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_26</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_26</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_27</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_27</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <Day>Sun</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_28</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_28</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_28</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_28</Nurse>
@@ -576,92 +618,80 @@
         <Assignment>
             <Nurse>NU_29</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_29</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_29</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_30</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_31</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_30</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_30</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_31</Nurse>
+            <Day>Sat</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_31</Nurse>
+            <Day>Sun</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>NU_32</Nurse>
             <Day>Mon</Day>
             <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>NU_31</Nurse>
+            <Nurse>NU_32</Nurse>
             <Day>Tue</Day>
             <ShiftType>Day</ShiftType>
             <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>NU_31</Nurse>
+            <Nurse>NU_32</Nurse>
             <Day>Wed</Day>
             <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_32</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_32</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_32</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_32</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_32</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_33</Nurse>
             <Day>Mon</Day>
             <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_33</Nurse>
@@ -689,20 +719,14 @@
         </Assignment>
         <Assignment>
             <Nurse>NU_34</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
+            <Day>Mon</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_34</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_34</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Night</ShiftType>
+            <Day>Tue</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -730,40 +754,22 @@
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>NU_36</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
-        </Assignment>
-        <Assignment>
             <Nurse>NU_37</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_37</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
+            <ShiftType>Day</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_37</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_37</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>NU_37</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_38</Nurse>
@@ -775,7 +781,7 @@
             <Nurse>NU_38</Nurse>
             <Day>Thu</Day>
             <ShiftType>Late</ShiftType>
-            <Skill>Nurse</Skill>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_38</Nurse>
@@ -786,20 +792,20 @@
         <Assignment>
             <Nurse>NU_39</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Nurse</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_39</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_39</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Nurse</Skill>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>NU_39</Nurse>
@@ -815,56 +821,68 @@
         </Assignment>
         <Assignment>
             <Nurse>CT_40</Nurse>
-            <Day>Mon</Day>
+            <Day>Thu</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_40</Nurse>
-            <Day>Tue</Day>
+            <Day>Fri</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_41</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_41</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_42</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_42</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_42</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_42</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_42</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_43</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <Day>Thu</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_43</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <Day>Fri</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -900,7 +918,7 @@
         <Assignment>
             <Nurse>CT_45</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -912,85 +930,85 @@
         <Assignment>
             <Nurse>CT_47</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_47</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_47</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_47</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_47</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_48</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_48</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_48</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_49</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_49</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_49</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_49</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_47</Nurse>
+            <Nurse>CT_49</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_48</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_48</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_48</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_49</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_49</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_49</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_49</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_49</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_50</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1007,44 +1025,50 @@
         </Assignment>
         <Assignment>
             <Nurse>CT_51</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_51</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_51</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_51</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_52</Nurse>
-            <Day>Mon</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_52</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_52</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_52</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_52</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1080,37 +1104,25 @@
         <Assignment>
             <Nurse>CT_55</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_55</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_56</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_56</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_57</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_57</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1122,43 +1134,31 @@
         <Assignment>
             <Nurse>CT_58</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_58</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_59</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_59</Nurse>
-            <Day>Thu</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_59</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_59</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_59</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1181,14 +1181,14 @@
         </Assignment>
         <Assignment>
             <Nurse>CT_61</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
+            <Day>Mon</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_61</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1206,19 +1206,19 @@
         <Assignment>
             <Nurse>CT_62</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_62</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_62</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1241,152 +1241,158 @@
         </Assignment>
         <Assignment>
             <Nurse>CT_64</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <Day>Mon</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_64</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_64</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_65</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_65</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_65</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_65</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_65</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_66</Nurse>
+            <Day>Wed</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_66</Nurse>
+            <Day>Thu</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_66</Nurse>
+            <Day>Fri</Day>
+            <ShiftType>Night</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_66</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_64</Nurse>
+            <Nurse>CT_66</Nurse>
             <Day>Sun</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_65</Nurse>
+            <Nurse>CT_67</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_65</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_65</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_65</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_65</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_66</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_66</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_66</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_66</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_66</Nurse>
-            <Day>Sun</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_67</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_67</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_68</Nurse>
-            <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_68</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_68</Nurse>
             <Day>Fri</Day>
             <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_68</Nurse>
+            <Day>Sat</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_68</Nurse>
+            <Day>Sun</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_69</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_69</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_69</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_69</Nurse>
-            <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_69</Nurse>
-            <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <Nurse>CT_70</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_70</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_70</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_70</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_70</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1421,35 +1427,29 @@
         </Assignment>
         <Assignment>
             <Nurse>CT_73</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <Day>Thu</Day>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_73</Nurse>
-            <Day>Tue</Day>
+            <Day>Fri</Day>
+            <ShiftType>Day</ShiftType>
+            <Skill>Caretaker</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>CT_74</Nurse>
+            <Day>Sat</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_73</Nurse>
+            <Nurse>CT_74</Nurse>
             <Day>Sun</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
-            <Nurse>CT_74</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>CT_74</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Caretaker</Skill>
-        </Assignment>
-        <Assignment>
             <Nurse>CT_75</Nurse>
             <Day>Mon</Day>
             <ShiftType>Day</ShiftType>
@@ -1470,31 +1470,31 @@
         <Assignment>
             <Nurse>CT_76</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_76</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_76</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_76</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_76</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
@@ -1560,37 +1560,37 @@
         <Assignment>
             <Nurse>CT_79</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>CT_79</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Caretaker</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_80</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_80</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_80</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_80</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1602,13 +1602,13 @@
         <Assignment>
             <Nurse>TR_82</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_82</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1649,80 +1649,80 @@
         </Assignment>
         <Assignment>
             <Nurse>TR_84</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
-            <Skill>Trainee</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>TR_84</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_84</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_84</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
+            <Skill>Trainee</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>TR_84</Nurse>
+            <Day>Sat</Day>
+            <ShiftType>Late</ShiftType>
+            <Skill>Trainee</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>TR_84</Nurse>
+            <Day>Sun</Day>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_85</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_85</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_86</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_86</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Night</ShiftType>
+            <Skill>Trainee</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>TR_87</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_87</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_87</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_87</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Trainee</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>TR_87</Nurse>
-            <Day>Sat</Day>
-            <ShiftType>Late</ShiftType>
-            <Skill>Trainee</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>TR_87</Nurse>
-            <Day>Sun</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1734,13 +1734,13 @@
         <Assignment>
             <Nurse>TR_88</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_88</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1800,19 +1800,19 @@
         <Assignment>
             <Nurse>TR_91</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_91</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_91</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1860,37 +1860,37 @@
         <Assignment>
             <Nurse>TR_94</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_94</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_95</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_95</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_96</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_96</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -1901,6 +1901,18 @@
         </Assignment>
         <Assignment>
             <Nurse>TR_97</Nurse>
+            <Day>Mon</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Trainee</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>TR_97</Nurse>
+            <Day>Tue</Day>
+            <ShiftType>Early</ShiftType>
+            <Skill>Trainee</Skill>
+        </Assignment>
+        <Assignment>
+            <Nurse>TR_97</Nurse>
             <Day>Wed</Day>
             <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
@@ -1956,85 +1968,85 @@
         <Assignment>
             <Nurse>TR_99</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_99</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_100</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_100</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_100</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_100</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_100</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_101</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_101</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_101</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_101</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_101</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Night</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_102</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_102</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -2052,43 +2064,31 @@
         <Assignment>
             <Nurse>TR_103</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Day</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_103</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Day</ShiftType>
-            <Skill>Trainee</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>TR_104</Nurse>
-            <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
-            <Skill>Trainee</Skill>
-        </Assignment>
-        <Assignment>
-            <Nurse>TR_104</Nurse>
-            <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_104</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_104</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_104</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -2124,31 +2124,31 @@
         <Assignment>
             <Nurse>TR_106</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_106</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_106</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_106</Nurse>
             <Day>Thu</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_106</Nurse>
             <Day>Fri</Day>
-            <ShiftType>Night</ShiftType>
+            <ShiftType>Late</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -2172,7 +2172,7 @@
         <Assignment>
             <Nurse>TR_107</Nurse>
             <Day>Sat</Day>
-            <ShiftType>Early</ShiftType>
+            <ShiftType>Day</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
@@ -2196,19 +2196,19 @@
         <Assignment>
             <Nurse>TR_109</Nurse>
             <Day>Mon</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_109</Nurse>
             <Day>Tue</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
         <Assignment>
             <Nurse>TR_109</Nurse>
             <Day>Wed</Day>
-            <ShiftType>Late</ShiftType>
+            <ShiftType>Early</ShiftType>
             <Skill>Trainee</Skill>
         </Assignment>
     </Assignments>
